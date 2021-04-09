@@ -1,0 +1,1 @@
+SELECT DISTINCT ticket_queue_name FROM otrs.tickets_normalise; 

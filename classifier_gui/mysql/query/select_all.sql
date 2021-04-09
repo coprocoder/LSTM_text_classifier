@@ -1,0 +1,1 @@
+SELECT * FROM OTRS.tickets_normalise;
